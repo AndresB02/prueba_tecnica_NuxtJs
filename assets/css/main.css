@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Gill Sans Nova";
+  src: url("/static/fonts/Gill-Sans-Nova-Light.ttf") format("ttf"),
+    url("/static/fonts/Gill-Sans-Nova-Light.ttf") format("ttf");
+  font-weight: 300; /* Light */
+  font-style: normal;
+}
+
+body {
+  font-family: "Gill Sans Nova", sans-serif;
+}
